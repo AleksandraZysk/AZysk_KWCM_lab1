@@ -1,6 +1,6 @@
 namespace degreemath {
-double sin(double degree);
-double cos(double degree);
-double tg(double degree);
-double ctg(double degree);
+double Sin(double degree);
+double Cos(double degree);
+double Tg(double degree);
+double Ctg(double degree);
 }
