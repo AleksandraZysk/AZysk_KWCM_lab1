@@ -1,0 +1,1 @@
+# AZysk_KWCM_lab1
