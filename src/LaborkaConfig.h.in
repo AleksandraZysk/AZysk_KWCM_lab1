@@ -1,0 +1,2 @@
+#cmakedefine USE_TRIGONOMETRY_DEGREE
+#cmakedefine BUILD_TESTS
